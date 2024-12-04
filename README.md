@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Techwhizz47
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning three.js 💪🏾
 - 💞️ I’m looking to collaborate on any ideas
 - 📫 How to reach me allanndungu47@gmail.com
 - 😄 Pronouns: He/Him
